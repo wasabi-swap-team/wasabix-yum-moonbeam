@@ -1,2 +1,4 @@
-# wasabix-yum-LUSD
-LUSD strategy for Wasabix Yum
+# wasabix-yum-moonbeam
+Wasabix Yum for moonbeam test net
+
+https://moonbeam.wasabix.finance/
